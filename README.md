@@ -6,7 +6,7 @@
 
 As with PS0, you will be accessing and submitting this problem set using GitHub Classroom. As a reminder, here's how that goes:
 
-1. Accept the invitation you found on Canvas in Problem Set 1 (which you have already done if you are here).
+1. Accept the invitation you found on Canvas in Problem Set 0 (which you have already done if you are here).
 
 2. [Read PS0 Part 3 to review how to clone a problem set repository using GitHub Desktop and how to work on it locally.](https://github.com/finocchiaro-classes/csci-1090-f25-ps0/blob/main/README.md) **As described in PS0, you need to remember where you cloned your repo to on your own machine!**
 
