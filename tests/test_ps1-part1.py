@@ -17,7 +17,7 @@ def capture_script_output(script_path):
 
 
 def test_script(monkeypatch):
-    script_path = os.path.join(os.path.dirname(__file__), "../ps1_part1.py")
+    script_path = os.path.join(os.path.dirname(__file__), "../ps1-part1.py")
     # Simulate user input
     inputs = iter(["50", "2"])
     monkeypatch.setattr("builtins.input", lambda _: next(inputs))
